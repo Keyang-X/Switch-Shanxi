@@ -1,0 +1,9 @@
+energy_sources,load_zones,period,planned_capacity_mw
+Wind,Shanxi,2023,30000.0
+Solar,Shanxi,2023,50000.0
+Water,Shanxi,2023,4000.0
+Storage,Shanxi,2023,6000.0
+Wind,Shanxi,2028,50000.0
+Solar,Shanxi,2028,70000.0
+Water,Shanxi,2028,10000.0
+Storage,Shanxi,2028,8000.0

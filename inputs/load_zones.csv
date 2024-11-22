@@ -1,0 +1,2 @@
+LOAD_ZONE,zone_ccs_distance_km,zone_dbid,existing_local_td,local_td_annual_cost_per_mw,existing_tx_sunk_annual_payment,existing_local_td_sunk_annual_payment,zone_balancing_area,local_td_loss_rate
+Shanxi,100.0,16,31028.5072015,60000.0,438000000.0,1460000000.0,North_China,0.053
